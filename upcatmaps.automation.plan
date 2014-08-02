@@ -1,0 +1,24 @@
+UPCAT Maps
+
+
+
+Automation
+Pelican
+
+pelican content -t simple
+
+TODOS
+	static
+		js libraries
+		routes.js
+		style.css
+	refactor article.html
+	
+	
+	
+UP Maps
+	Academic
+	Services
+	Transport
+	Food
+	
