@@ -57,8 +57,8 @@ def process(item, placelist):
 		else: continue
 	return errorlist
 		
-#listAsc()
-	
+
+listAsc()
 htmlist = readList()
 #placelist =readPlaces()
 '''

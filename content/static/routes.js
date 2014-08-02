@@ -2502,6 +2502,19 @@ var geojson = [
           14.652132822648827
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "our"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06665372848511,
+          14.651551545908172
+        ]
+      }
     }
 
   ];
