@@ -7,37 +7,49 @@ Title: Katips-chapel
 </section>
 
 <section id='marikina'>
+<h2>Marikina</h2>
 <p align='justify'>From Marikina, alight at Aurora Blvd corner Katipunan and walk towards the jeepney terminal under the Katipunan Flyover.
 </p>
 </section>
 
 <section id='lrt2'>
+<h2>LRT2-Katipunan</h2>
 <p align='justify'>If you’re coming from the LRT-2 Katipunan Station, take the North Exit on the same side as St. Bridget, opposite PSBA. Walk towards the jeepney terminal under the Katipunan Flyover.
 </p>
 </section>
 
 <section id='katips'>
+<h2>Katipunan Jeepney Terminal</h2>
 <p align='justify'>There are two queues calling UP at the terminal. Make sure you ride the jeep which goes inside the campus (the jeep line closer to Ministop). The other jeep line (farther from Ministop) goes to Tandang Sora passing through MWSS and will not go inside UP. To be sure, ask the jeepney barker before boarding.
 </p>
 </section>
 
-<section id='gt-toyota'>
-<p align='justify'>The UP-Katipunan jeep enters UP Diliman through the gate opposite MWSS (Manila Water). Upon entry to UP, you'll see the GT Toyota Building(white) on the left.
+<section id='magsaysay-gate'>
+<h2>Magsaysay Ave Gate</h2>
+<p align='justify'>The UP-Katipunan jeep enters UP Diliman through the gate opposite MWSS.
 </p>
 </section>
 
-<section id='romulo-shed'>
-<p align='justify'>Alight the jeep at Romulo Hall. This is the first intersection the UP-Katipunan jeep encounters once inside UP. Go to the Romulo Hall Waiting Shed along E. Ma. Guerrero Road.
+<section id='gt-toyota'>
+<h2>GT-Toyota</h2>
+<p align='justify'>Upon entry to UP, you'll see the GT Toyota Building (white) on the left.
+</p>
+</section>
+
+<section id='romulo'>
+<h2>Romulo Hall</h2>
+<p align='justify'>The jeep will then pass by Romulo Hall. This is the first intersection the UP-Katipunan jeep encounters once inside UP. The jeep will then turn right at E. Ma. Guerrero St.
+</p>
 </section>
 
 <section id='ilangilang'>
+<h2>Ilang-Ilang Residence Hall</h2>
 <p align='justify'> While at E. Ma. Guerrero St., the jeep will pass by Ilang-Ilang Residence Hall before turning left at Laurel St.
 </p>
 </section>
 
-
 <section id='chapel'>
-<h1>UP Parish of the Holy Sacrifice</h1>
+<h2>UP Parish of the Holy Sacrifice</h2>
 <p align='justify'>The Parish of the Holy Sacrifice (Chapel) is that first dome structure you’ll see on the left side of the road.
 </p>
 </section>

@@ -1,8 +1,8 @@
-Title: Katips-fa
+Title: Katips-theatre
 
 <section id='cover' class='cover active'>
-<h1> From Katipunan or Marikina <br><br>to Fine Arts (FA)</h1>
-<p align='justify'>by DiliMaps </p>
+<h1>From Katipunan or Marikina <br><br>to UP Theater</h1>
+<p>by DiliMaps</p>
 <small class='scroll'>Scroll ▼</small>
 </section>
 
@@ -32,13 +32,13 @@ Title: Katips-fa
 
 <section id='gt-toyota'>
 <h2>GT-Toyota</h2>
-<p align='justify'>Upon entry to UP, you'll see the GT Toyota Building(white) on the left.
+<p align='justify'>Upon entry to UP, you'll see the GT Toyota Building (white) on the left.
 </p>
 </section>
 
-<section id='romulo-shed'>
-<h2>Romulo Hall Waiting Shed</h2>
-<p align='justify'>Alight the jeep at Romulo Hall. This is the first intersection the UP-Katipunan jeep encounters once inside UP. Go to the Romulo Hall Waiting Shed along E. Ma. Guerrero Road, then ride the next Ikot Jeep that passes by.
+<section id='romulo'>
+<h2>Romulo Hall</h2>
+<p align='justify'>The jeep will then pass by Romulo Hall. This is the first intersection the UP-Katipunan jeep encounters once inside UP. The jeep will then turn right at E. Ma. Guerrero St.
 </p>
 </section>
 
@@ -50,7 +50,7 @@ Title: Katips-fa
 
 <section id='chapel'>
 <h2>Parish of the Holy Sacrifice</h2>
-<p align='justify'>While at Laurel St., the jeep passes by the Parish of the Holy Sacrifice (UP Chapel).
+<p align='justify'>While at Laurel St., the jeep passes by the UP Chapel.
 </p>
 </section>
 
@@ -61,39 +61,27 @@ Title: Katips-fa
 
 <section id='kalay'>
 <h2>Kalayaan Residence Hall</h2>
-<p align='justify'> The jeep will then turn left at Roces St. where you'll see the Kalayaan Residence Hall.
-</p>
+<p align='justify'> You'll then see Kalayaan Residence Hall along Roces St. </p>
 </section>
 
-<section id='molave'>
-<h2>Molave Residence Hall</h2>
-<p align='justify'> The jeep then turns right at Magsaysay St. You’ll see Molave Residence Hall at Roces cor Magsaysay St.
-</p>
+<section id='yakal'>
+<h2>Yakal Residence Hall</h2>
+<p align='justify'> You'll also pass by the side of Yakal Residence Hall. </p>
 </section>
 
-<section id='tba'>
-<h2>Ang Bahay ng Alumni</h2>
-<p align='justify'> While at Magsaysay St, you'll see the jeep pass by Ang Bahay ng Alumni.
-</p>
+<section id='engg'>
+<h2>Melchor Hall (Engg)</h2>
+<p align='justify'> The jeep will also pass by the side of Melchor Hall (College of Engineering) before turning right at Osmena Ave.</p>
 </section>
 
-
-<section id='issi'>
-<h2>Virata Hall (ISSI)</h2>
-<p align='justify'>
-It will then turn left at Jacinto St., passing by Virata Hall (ISSI).
-</p>
+<section id='carillon'>
+<h2>Carillon</h2>
+<img src='https://lh5.googleusercontent.com/0vpmOU67QTBC64g9qIDGbJIGD6xfGpUw8bAUJqo4rbH2cywfa6zbBzHQeFJQLhWYwXZ1xscBPi2XNYDN4xwtJhAsQDuwLHThYXuLsa6v7CEgOAhp--7UwPnR'>
+<p>The jeep will also pass by notable UP landmarks such as the <i>UP Carillon</i>.</p>
 </section>
 
-<section id='uave-jacinto'>
-<p align='justify'>
-The jeep will then cross the University Avenue, continuing on to Jacinto St.
-</p>
+<section id='theatre'>
+<h2>UP Theater</h2>
+<p align='center'> Right next to the Carillon is the UP Theater. Ask to be dropped off the <b>waiting shed</b> some meters in front of the University Theater (Villamor Hall).</p>
 </section>
 
-<section id='fa'>
-<h2> Fine Arts (FA)</h2>
-<p align='justify'>
-Alight the IKOT jeep right after it passes Jacinto cor Lakandula (first intersection). The College of Fine Arts Building is on the same side of the road the jeep is on.
-</p>
-</section>

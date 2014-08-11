@@ -1,7 +1,7 @@
-Title: Katips-fa
+Title: Katips-fi
 
 <section id='cover' class='cover active'>
-<h1> From Katipunan or Marikina <br><br>to Fine Arts (FA)</h1>
+<h1> From Katipunan or Marikina <br><br>to UP Film Institute (FI)</h1>
 <p align='justify'>by DiliMaps </p>
 <small class='scroll'>Scroll ▼</small>
 </section>
@@ -72,28 +72,15 @@ Title: Katips-fa
 </section>
 
 <section id='tba'>
-<h2>Ang Bahay ng Alumni</h2>
-<p align='justify'> While at Magsaysay St, you'll see the jeep pass by Ang Bahay ng Alumni.
+<h2>Bahay ng Alumni</h2>
+<p align='justify'>Alight from the jeep when it reaches Ang Bahay ng Alumni. This is located on the same side of the road you're in.
+</p>
+</section>
+
+<section id='fi'>
+<h2>UP Film Institute (FI)</h2>
+<p align='justify'>Cross the street to get to the UP Film Institute. If you’re facing the other side of the road and your back is to Ang Bahay ng Alumni, UP Film Institute is at your 11 o’clock.
 </p>
 </section>
 
 
-<section id='issi'>
-<h2>Virata Hall (ISSI)</h2>
-<p align='justify'>
-It will then turn left at Jacinto St., passing by Virata Hall (ISSI).
-</p>
-</section>
-
-<section id='uave-jacinto'>
-<p align='justify'>
-The jeep will then cross the University Avenue, continuing on to Jacinto St.
-</p>
-</section>
-
-<section id='fa'>
-<h2> Fine Arts (FA)</h2>
-<p align='justify'>
-Alight the IKOT jeep right after it passes Jacinto cor Lakandula (first intersection). The College of Fine Arts Building is on the same side of the road the jeep is on.
-</p>
-</section>
